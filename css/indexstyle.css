@@ -1,0 +1,47 @@
+
+body {
+  margin: auto;
+  width: auto;
+  padding: 40px;
+  background: #c7c7c7;
+  color: #8A2BE2;
+}
+
+h3{
+  text-align: center;
+}
+
+td{
+  text-align: justify;
+}
+
+#main{
+   display: block;
+   float: right;
+   z-index: 3;
+   position: absolute; /*newly added*/
+   width: 960px;
+   background: #000;
+   border: 1px solid #e4e4e4;
+   opacity : 0.7;
+   filter : alpha(opacity=60);
+   padding: 20px;
+   margin: 10px auto;"
+   z-index: 2;
+   left: 140px;
+   top: 20px;
+   color: #8A2BE2;
+}
+
+#particles-js{
+  position : fixed;
+  top : 0;
+  left : 0;
+  width : 100%;
+  height : 100%;
+  background : #000;
+  opacity : 0.7;
+  filter : alpha(opacity=60);
+  z-index : 0;
+  display: hidden;
+  }
