@@ -2,4 +2,4 @@
 
 Utilized PHP, MySQL, HTML, CSS, Javascript, XAMPP.
 
-![alt tag](https://raw.github.com/henryhyu/registrationlogin/master/pics/Login Page.png)
+![alt tag](https://github.com/henryhyu/registrationlogin/blob/master/pics/Login%20Page.png)
